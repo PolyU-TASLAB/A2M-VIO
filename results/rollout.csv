@@ -1,0 +1,9 @@
+Metric,Method,0.1s,0.3s,0.5s,1.0s,3.0s
+Position RMSE [m],Identified model,0.0135,0.1402,0.6230,3.9184,26.8825
+Position RMSE [m],MSE-TCN,0.0150,0.1078,0.3666,1.9826,23.9200
+Position RMSE [m],"TransNet+RotNet (ours, before refinement)",0.0111,0.0649,0.2401,1.2921,11.0725
+Position RMSE [m],TransNet+RotNet (ours),0.0094,0.0618,0.2290,1.2053,10.5100
+Attitude RMSE [deg],Identified model,6.4463,28.5959,49.9057,79.6977,136.8643
+Attitude RMSE [deg],MSE-TCN,4.3200,11.4898,17.5995,38.0607,95.7735
+Attitude RMSE [deg],"TransNet+RotNet (ours, before refinement)",3.6356,8.3862,13.7810,29.5688,82.2673
+Attitude RMSE [deg],TransNet+RotNet (ours),3.5401,7.9222,12.8337,25.7367,80.0639

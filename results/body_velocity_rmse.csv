@@ -1,0 +1,4 @@
+Method,Ellipse,Lemniscate,Race track,Overall
+AI-IO,0.5074,0.2958,0.6294,0.4775
+TartanIMU+LoRA,0.3943,0.2633,0.6664,0.4414
+DragNet (ours),0.3880,0.2537,0.5374,0.3931
